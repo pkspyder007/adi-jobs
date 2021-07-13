@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "SDE 2",
+        "company": "Amazon",
+        "description": "If any Environment Variables values are changed between Deployments, deduplication will always be bypassed",
+        "link": "https://praveeen.in"
+    },
+    {
+        "id": 2,
+        "title": "SDE 2",
+        "company": "Amazon",
+        "description": "If any Environment Variables values are changed between Deployments, deduplication will always be bypassed",
+        "link": "https://praveeen.in"
+    },
+    {
+        "id": 3,
+        "title": "SDE 2",
+        "company": "Amazon",
+        "description": "If any Environment Variables values are changed between Deployments, deduplication will always be bypassed",
+        "link": "https://praveeen.in"
+    },
+    {
+        "id": 4,
+        "title": "SDE 2",
+        "company": "Amazon",
+        "description": "If any Environment Variables values are changed between Deployments, deduplication will always be bypassed",
+        "link": "https://praveeen.in"
+    }
+]
